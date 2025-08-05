@@ -53,6 +53,7 @@ findelement(arr, n);
 
 ```
 
+# REALIZATION.
 *I wrote a much simpler version without complicating it after realizing what i wrote above has too many drawbacks.*
 - actually here also i found few drawbacks 
 	- result +=1 will cause string concatenation.
@@ -89,6 +90,8 @@ findelement(arr, n);
 //pass the n and Array arr values to the function
 ```
 
+
+# AGAIN REALIZED & TIME AND SPACE OPTIMIZED  
 *But later realized that i don't even need the new array to verify.*
 ```js
 function findelement(arr, n) {
@@ -107,4 +110,29 @@ function findelement(arr, n) {
 let arr = [4, 23, 234, 24, 23, 14, 51, 15, 34, 33, 5, 51, 3, 51];
 let n = 51; // Element to be found.
 findelement(arr, n);
+```
+
+
+
+# To Search for One Element
+```js
+// Find Element and print index nubmer
+// Else Print -1.
+function findElement(ar1, n) {
+  let found = false;
+  for (let i = 0; i < ar1.length; i++) {
+    if (ar1[i] === n) {
+      return i;
+    }
+  } // Here because it did not touch the return the program will run to the next step after finishing the loop!
+  if (!found) {
+    return "-1";
+  }
+}
+
+let ar1 = [34, 45, 34, 6, 45, 75, 45, 73, 34, 2, 31];
+let n = 1;
+let x = findElement(ar1, n);
+console.log(x);
+
 ```
