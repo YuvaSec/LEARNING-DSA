@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Find the Element in a Array.md",
+                "file": "LEARNING BASICS/Day 5 - Second largest number..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Find the Element in a Array"
+              "title": "Day 5 - Second largest number."
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Find the Element in a Array.md",
+                "file": "LEARNING BASICS/Day 5 - Second largest number..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03 Find the Element in a Array"
+              "title": "Backlinks for Day 5 - Second largest number."
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Find the Element in a Array.md",
+                "file": "LEARNING BASICS/Day 5 - Second largest number..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 03 Find the Element in a Array"
+              "title": "Outgoing links from Day 5 - Second largest number."
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Find the Element in a Array.md",
+                "file": "LEARNING BASICS/Day 5 - Second largest number..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 Find the Element in a Array"
+              "title": "Outline of Day 5 - Second largest number."
             }
           }
         ]
@@ -168,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17c041076def9c2a",
+  "active": "af9b6f1bfb5620c4",
   "lastOpenFiles": [
+    "LEARNING BASICS/Day 4 - Loops 2.md",
+    "LEARNING BASICS/Day 5 - Second largest number..md",
     "03 Find the Element in a Array.md"
   ]
 }
