@@ -101,6 +101,25 @@ for (let i = 0; i < n; i++) {
   console.log(row);
 }
 ```
+
+# Number Stairs
+![[Screenshot 2025-08-07 at 23.54.42.png]]
+```js
+let n = 10;
+
+for (let i = 0; i < n; i++) {
+  let row = "";
+  for (let j = n; j > i + 1; j--) {
+    row += "   ";
+  }
+  for (let k = 0; k <= i; k++) {
+    row += " " + (n - (n - (k + 1))) + " ";
+  }
+  console.log(row);
+}
+
+```
+
 # Repeating Number Stairs
 ![[Screenshot 2025-08-07 at 23.04.38.png]]
 ```js
