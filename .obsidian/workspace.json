@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LEARNING BASICS/Day 7 Star Patterns.md",
+                "file": "LEARNING BASICS/Day 8 - How Many Number of Digits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 7 Star Patterns"
+              "title": "Day 8 - How Many Number of Digits"
             }
           }
         ],
@@ -185,6 +185,14 @@
   },
   "active": "64ad80205c5b08d7",
   "lastOpenFiles": [
+    "Find All The Happy Numbers Up to n.md",
+    "LEARNING BASICS/Day 8 - How Many Number of Digits.md",
+    "03 Find the Element in a Array.md",
+    "02 FizzBuzzBazz.md",
+    "01 Summation Algorithm.md",
+    "LEARNING BASICS/Day 7 Star Patterns.md",
+    "MEDIA/Screenshot 2025-08-08 at 00.23.13.png",
+    "MEDIA/Screenshot 2025-08-08 at 00.11.31.png",
     "MEDIA/Screenshot 2025-08-07 at 23.54.42.png",
     "MEDIA/Screenshot 2025-08-07 at 23.21.48.png",
     "MEDIA/Screenshot 2025-08-07 at 23.04.38.png",
@@ -192,16 +200,11 @@
     "04 SCALABLE CHRISTMAS TREE.md",
     "MEDIA/Screenshot 2025-08-07 at 22.51.48.png",
     "MEDIA/Screenshot 2025-08-07 at 22.44.23.png",
-    "LEARNING BASICS/Day 7 Star Patterns.md",
     "MEDIA/Screenshot 2025-08-07 at 21.45.59.png",
     "MEDIA/Screenshot 2025-08-07 at 21.41.25.png",
-    "MEDIA/Screenshot 2025-08-07 at 21.37.15.png",
-    "MEDIA/Screenshot 2025-08-07 at 19.32.56.png",
-    "MEDIA/Screenshot 2025-08-07 at 19.16.02.png",
     "MEDIA",
     "LEARNING BASICS/Day 6 - Loop within a Loop.md",
     "LEARNING BASICS/Day 5 - Second largest number..md",
-    "LEARNING BASICS/Day 4 - Loops 2.md",
-    "03 Find the Element in a Array.md"
+    "LEARNING BASICS/Day 4 - Loops 2.md"
   ]
 }
