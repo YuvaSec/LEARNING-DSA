@@ -134,3 +134,42 @@ for (let i = 0; i < n; i++) {
 }
 
 ```
+
+# Switching Pattern Stairs 
+![[Screenshot 2025-08-08 at 00.11.31.png]]
+- We can write this code in two ways one in my way another my teacher ways 
+```js
+// MY CODE //
+let n = 10;
+
+for (let i = 0; i < n; i++) {
+  let row = "";
+  for (let j = 0; j <= i; j++) {
+    row += " " + ((j + 1) % 2) + " ";
+  }
+  console.log(row);
+}
+```
+
+###  using ***switch variable.***(Switcher Inside loop)
+```js
+// Teacher CODE //
+let n = 10;
+
+for (let i = 0; i < n; i++) {
+  let row = "";
+  let switcher = 1;
+  for (let j = 0; j <= i; j++) {
+    row += " " + switcher + " ";
+    if (switcher == 1) {
+      switcher = 0;
+    } else {
+      switcher = 1;
+    }
+  }
+  console.log(row);
+}
+```
+
+# Switching Pattern Stairs (Switcher Outside loop)
+![[Screenshot 2025-08-08 at 00.23.13.png]]
