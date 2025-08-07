@@ -55,3 +55,36 @@ let secLargestNumber = findSecLarge(arry);
 console.log(secLargestNumber);
 
 ```
+
+# Realized that let case [1,1,1] returning infinity
+```js
+function findSec(arry) {
+  if (arry.length < 2) {
+    return null;
+  }
+  let large = -Infinity;
+  let second = -Infinity;
+  for (let i = 0; i < arry.length; i++) {
+    if (arry[i] > large) {
+      second = large;
+      large = arry[i];
+    } else if (arry[i] > second && arry[i] != large) {
+      second = arry[i];
+    } else if (second == -Infinity) {
+      return null;
+    }
+  }
+  return second;
+}
+
+//let arry = [1, 2, 3]
+//let arry = [2, 1, 2]
+//let arry = [10];
+//let arry = [-1,-2,-1]
+//let arry = [1, 1, 1]
+let arry = [-1, -1, -1];
+
+let x = findSec(arry);
+console.log(x);
+
+```
