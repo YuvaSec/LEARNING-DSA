@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Find All The Happy Numbers Up to n.md",
+                "file": "TIME AND SPACE COMPLEXITY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Find All The Happy Numbers Up to n"
+              "title": "TIME AND SPACE COMPLEXITY"
             }
           }
         ],
@@ -185,24 +185,27 @@
   },
   "active": "64ad80205c5b08d7",
   "lastOpenFiles": [
+    "MEDIA/output.png",
+    "MEDIA/IMG_0858 1.png",
+    "MEDIA/IMG_0859.jpg",
+    "MEDIA/IMG_0858.png",
+    "LEARNING BASICS/DAY 10 - Reverse Integer.md",
+    "TIME AND SPACE COMPLEXITY.md",
+    "LEARNING BASICS/DAY 9 - Palindrome Number.md",
+    "MEDIA/Screenshot 2025-08-09 at 00.11.17.png",
+    "MEDIA/Screenshot 2025-08-08 at 23.40.10.png",
+    "MEDIA/Screenshot 2025-08-08 at 23.33.20.png",
+    "LEARNING BASICS/Day 8 - How Many Number of Digits.md",
+    "Find All The Happy Numbers Up to n.md",
     "03 Find the Element in a Array.md",
     "04 SCALABLE CHRISTMAS TREE.md",
     "02 FizzBuzzBazz.md",
     "01 Summation Algorithm.md",
-    "LEARNING BASICS/DAY 9 - Palindrome Number.md",
-    "LEARNING BASICS/Day 8 - How Many Number of Digits.md",
     "LEARNING BASICS/Day 7 - Star Patterns.md",
-    "Find All The Happy Numbers Up to n.md",
     "MEDIA/Screenshot 2025-08-08 at 00.23.13.png",
     "MEDIA/Screenshot 2025-08-08 at 00.11.31.png",
     "MEDIA/Screenshot 2025-08-07 at 23.54.42.png",
     "MEDIA/Screenshot 2025-08-07 at 23.21.48.png",
-    "MEDIA/Screenshot 2025-08-07 at 23.04.38.png",
-    "MEDIA/Screenshot 2025-08-07 at 23.00.31.png",
-    "MEDIA/Screenshot 2025-08-07 at 22.51.48.png",
-    "MEDIA/Screenshot 2025-08-07 at 22.44.23.png",
-    "MEDIA/Screenshot 2025-08-07 at 21.45.59.png",
-    "MEDIA/Screenshot 2025-08-07 at 21.41.25.png",
     "MEDIA",
     "LEARNING BASICS/Day 6 - Loop within a Loop.md",
     "LEARNING BASICS/Day 5 - Second largest number..md",
