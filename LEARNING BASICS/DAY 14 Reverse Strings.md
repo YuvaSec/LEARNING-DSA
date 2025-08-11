@@ -1,21 +1,13 @@
 Write a function that reverses a string. The input string is given as an array of characters `s`.
-
-You must do this by modifying the input array [in-place](https://en.wikipedia.org/wiki/In-place_algorithm) with `O(1)` extra memory.
-
-**Example 1:**
-
-**Input:** s = ["h","e","l","l","o"]
-**Output:** ["o","l","l","e","h"]
-
-**Example 2:**
-
-**Input:** s = ["H","a","n","n","a","h"]
-**Output:** ["h","a","n","n","a","H"]
+You must do this by modifying the input array
+let s = ["h", "e", "l", "l", "o"]
+let s = ["H", "a", "n", "n", "a", "h"];
 
 **Constraints:**
-
 - `1 <= s.length <= 105`
 - `s[i]` is a [printable ascii character](https://en.wikipedia.org/wiki/ASCII#Printable_characters).
+- in-place with 
+- O(1)` extra memory.
 
 
 # My Solution
@@ -33,6 +25,9 @@ let s = ["H", "a", "n", "n", "a", "h"];
 let k = fun(s);
 console.log(k);
 ```
+
+**I forgot about the 0(1) space complexity constraint**
+**Its a new learning**
 
 # After Realization using AI
 ```js
