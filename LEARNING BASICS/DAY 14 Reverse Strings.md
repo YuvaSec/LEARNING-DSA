@@ -21,31 +21,17 @@ You must do this by modifying the input array [in-place](https://en.wikipedia.o
 # My Solution
 ```js
 function fun(s) {
-
-let s1 = [];
-
-for (let i = s.length; i > 0; i--){
-
-s1.push(s[i-1])
-
+  let s1 = [];
+  for (let i = s.length; i > 0; i--) {
+    s1.push(s[i - 1]);
+  }
+  return s1;
 }
-
-return s1
-
-}
-
-  
-  
-  
-  
 
 //let s = ["h", "e", "l", "l", "o"]
-
-let s = ["H","a","n","n","a","h"]
-
+let s = ["H", "a", "n", "n", "a", "h"];
 let k = fun(s);
-
-console.log(k)****
+console.log(k);
 ```
 
 # After Realization using AI
