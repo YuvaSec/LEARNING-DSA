@@ -17,3 +17,26 @@ You must do this by modifying the input array [in-place](https://en.wikipedia.o
 - `1 <= s.length <= 105`
 - `s[i]` is a [printable ascii character](https://en.wikipedia.org/wiki/ASCII#Printable_characters).
 
+# After Realization using AI
+```js
+function fun(s) {
+  let left = 0;
+  let right = s.length - 1;
+
+  while (left < right) {
+    let temp = s[left];
+    s[left] = s[right];
+    s[right] = temp;
+
+    left++;
+    right--;
+  }
+  return s;
+}
+
+let s = ["h", "e", "l", "l", "o"];
+//let s = ["H","a","n","n","a","h"]
+let k = fun(s);
+console.log(k);
+
+```
