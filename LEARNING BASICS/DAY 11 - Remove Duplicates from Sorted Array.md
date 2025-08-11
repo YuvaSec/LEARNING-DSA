@@ -20,6 +20,10 @@ for (int i = 0; i < k; i++) {
 }
 
 
+
+# My Understanding:
+1. NON Decrising
+
 # My Solution 
 ```js
 function find(nums) {
