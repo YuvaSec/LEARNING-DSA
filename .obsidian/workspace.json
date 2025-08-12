@@ -62,9 +62,37 @@
               "icon": "lucide-file",
               "title": "DAY 15 Best time to Buy and Sell Stocks"
             }
+          },
+          {
+            "id": "aa7c06ea5d4ac8c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LEARNING BASICS/DAY 13 Merge Two Sorted Lists..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DAY 13 Merge Two Sorted Lists."
+            }
+          },
+          {
+            "id": "763cafbdbbd6ffe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LEARNING BASICS/DAY 13 Merge Two Sorted Lists..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DAY 13 Merge Two Sorted Lists."
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -211,13 +239,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3aa43d72b3a6a25a",
+  "active": "763cafbdbbd6ffe4",
   "lastOpenFiles": [
-    "LEARNING BASICS/DAY 14 Reverse Strings.md",
-    "LEARNING BASICS/DAY 15 Best time to Buy and Sell Stocks.md",
+    "LEARNING BASICS/DAY 16 Merge Sorted Array.md",
+    "LEARNING BASICS/Day 8 - How Many Number of Digits.md",
+    "LEARNING BASICS/Day 7 - Star Patterns.md",
+    "LEARNING BASICS/Day 6 - Loop within a Loop.md",
+    "LEARNING BASICS/Day 5 - Second largest number..md",
+    "LEARNING BASICS/Day 4 - Loops 2.md",
+    "LEARNING BASICS/Day 1 - 01 PROGRAMMING 101  REFRESHER..md",
     "IMPORTANT THING TO REMEMBER.md",
-    "LEARNING BASICS/DAY 11 - Remove Duplicates from Sorted Array.md",
     "LEARNING BASICS/DAY 13 Merge Two Sorted Lists..md",
+    "Untitled.md",
+    "LEARNING BASICS/DAY 15 Best time to Buy and Sell Stocks.md",
+    "MEDIA/output 1.png",
+    "LEARNING BASICS/DAY 14 Reverse Strings.md",
+    "LEARNING BASICS/DAY 11 - Remove Duplicates from Sorted Array.md",
     "LEARNING BASICS/DAY 12 Remove Element.md",
     "TIME AND SPACE COMPLEXITY.md",
     "MEDIA/output.png",
@@ -229,19 +266,13 @@
     "MEDIA/Screenshot 2025-08-09 at 00.11.17.png",
     "MEDIA/Screenshot 2025-08-08 at 23.40.10.png",
     "MEDIA/Screenshot 2025-08-08 at 23.33.20.png",
-    "LEARNING BASICS/Day 8 - How Many Number of Digits.md",
     "Find All The Happy Numbers Up to n.md",
     "03 Find the Element in a Array.md",
     "04 SCALABLE CHRISTMAS TREE.md",
     "02 FizzBuzzBazz.md",
     "01 Summation Algorithm.md",
-    "LEARNING BASICS/Day 7 - Star Patterns.md",
     "MEDIA/Screenshot 2025-08-08 at 00.23.13.png",
     "MEDIA/Screenshot 2025-08-08 at 00.11.31.png",
-    "MEDIA/Screenshot 2025-08-07 at 23.54.42.png",
-    "MEDIA",
-    "LEARNING BASICS/Day 6 - Loop within a Loop.md",
-    "LEARNING BASICS/Day 5 - Second largest number..md",
-    "LEARNING BASICS/Day 4 - Loops 2.md"
+    "MEDIA"
   ]
 }
