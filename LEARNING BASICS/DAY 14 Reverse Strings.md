@@ -25,7 +25,6 @@ let s = ["H", "a", "n", "n", "a", "h"];
 let k = fun(s);
 console.log(k);
 ```
-
 **I forgot about the 0(1) space complexity constraint**
 **Its a new learning**
 
